@@ -1,2 +1,2 @@
-export * from "./TypeencabezadoProAnuCapa";
+export * from "./TypeEncabezadoProAnuCapa";
 export * from "./TypeTablaProAnuCapa";
